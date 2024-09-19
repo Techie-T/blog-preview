@@ -19,6 +19,8 @@ This is a solution to the 6th assignment on web3bridge. Web3bridge Web2basic ass
 
 ## Overview
 
+Changed the image from greg's to mine
+
 ### The challenge
 
 Users should be able to:
